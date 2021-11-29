@@ -17,7 +17,7 @@ We can train ML models on a set of dataset including credit card transaction inf
 
 ### ML Model Selected
 
-k-means
+logistic regression
 
 **Group Number**: 02
 
@@ -32,5 +32,7 @@ k-means
 - Kholoud Alhamdan
 
 - Turki AlAnzi
+
+- Abdullah Alzahrani 
 
 - Thamer Abanmi
